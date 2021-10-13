@@ -1,13 +1,3 @@
-// const car1 = {
-//     let company: 'Toyota',
-//         model:2020,
-//         colour:'red',
-//         image:"", 
-//         registrationNumber:,
-//         price:;
-// }
-
-// document.getElementById('main').innerHTML(car3);
 
 function Car(company, model, colour, image, regNum, price) {
     this.company = company;
